@@ -151,6 +151,7 @@ module.exports = {
 			stats: 33,
 			disabled: 34
 		},
-		defaultVariation: 'disabled'
+		defaultVariation: 'disabled',
+		allowExistingUsers: true
 	}
 };
